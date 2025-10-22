@@ -19,20 +19,14 @@ In today's fast-paced environment, project plans are complex and constantly evol
 
 - **Dynamic Scenario Modeling**: Drag tasks left or right to shift dates and see the entire dependency chain react in real-time. Extend a task's duration by dragging its end date and instantly assess the impact on project completion.
 
-  _A short GIF demonstrating this feature would be perfect here!_
+  _A short GIF demonstrating this feature !_
   ![Dynamic Date Shifting Demo](media/dynamic-date-shifting.gif)
 
 - **Critical Path Visualization**: Click any task to highlight all its successors. This immediately clarifies complex dependency networks and helps identify high-risk tasks that could jeopardize deadlines.
 
-  _A short GIF demonstrating this feature would be perfect here!_
-  ![Interactive Gantt Chart Demo](media/dynamic-date-shifting.gif)
-
 - **Unified Interactive Workspace**: An editable task table sits directly below the chart. Modify task names, dates, progress, or dependencies, and sync your changes to the visual chart with a single click.
 
 - **Seamless Data Integration**: Import your existing project plans via CSV to get started instantly. When you're done, export the current state of your chart back to a CSV for reporting or use in other tools.
-
-  _A short GIF demonstrating the table sync feature would be perfect here!_
-  ![Interactive Gantt Chart Demo](media/dynamic-date-shifting.gif)
 
 ## Getting Started
 
