@@ -20,7 +20,7 @@ In today's fast-paced environment, project plans are complex and constantly evol
 - **Dynamic Scenario Modeling**: Drag tasks left or right to shift dates and see the entire dependency chain react in real-time. Extend a task's duration by dragging its end date and instantly assess the impact on project completion.
 
   _A short GIF demonstrating this feature !_
-  ![Dynamic Date Shifting Demo](media/dynamic-date-shifting.gif)
+  https://github.com/adtech-solutions/documents/blob/852a06daa5e421ee4c7944ec75be90e272ed366d/gantt-projectplanner/dynamic-date-shifting.gif
 
 - **Critical Path Visualization**: Click any task to highlight all its successors. This immediately clarifies complex dependency networks and helps identify high-risk tasks that could jeopardize deadlines.
 
