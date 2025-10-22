@@ -25,14 +25,14 @@ In today's fast-paced environment, project plans are complex and constantly evol
 - **Critical Path Visualization**: Click any task to highlight all its successors. This immediately clarifies complex dependency networks and helps identify high-risk tasks that could jeopardize deadlines.
 
   _A short GIF demonstrating this feature would be perfect here!_
-  ![Dependency Highlighting Demo](media/dependency-highlighting.gif)
+  ![Interactive Gantt Chart Demo](media/dynamic-date-shifting.gif)
 
 - **Unified Interactive Workspace**: An editable task table sits directly below the chart. Modify task names, dates, progress, or dependencies, and sync your changes to the visual chart with a single click.
 
 - **Seamless Data Integration**: Import your existing project plans via CSV to get started instantly. When you're done, export the current state of your chart back to a CSV for reporting or use in other tools.
 
   _A short GIF demonstrating the table sync feature would be perfect here!_
-  ![Table Sync Demo](media/table-sync.gif)
+  ![Interactive Gantt Chart Demo](media/dynamic-date-shifting.gif)
 
 ## Getting Started
 
